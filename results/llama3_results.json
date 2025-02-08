@@ -1,0 +1,1707 @@
+{
+  "Blocktail": [
+    {
+      "input": "product_card",
+      "tokens": [
+        "product",
+        "_card"
+      ],
+      "num_tokens": 2
+    },
+    {
+      "input": "context--featured",
+      "tokens": [
+        "context",
+        "--",
+        "featured"
+      ],
+      "num_tokens": 3
+    },
+    {
+      "input": "product_card -title",
+      "tokens": [
+        "product",
+        "_card",
+        "Ġ-",
+        "title"
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "product_card -title -description",
+      "tokens": [
+        "product",
+        "_card",
+        "Ġ-",
+        "title",
+        "Ġ-",
+        "description"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "context--dark_mode",
+      "tokens": [
+        "context",
+        "--",
+        "dark",
+        "_mode"
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "button_primary --large",
+      "tokens": [
+        "button",
+        "_primary",
+        "Ġ--",
+        "large"
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "form_group -input_field",
+      "tokens": [
+        "form",
+        "_group",
+        "Ġ-",
+        "input",
+        "_field"
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "user_profile --active -avatar",
+      "tokens": [
+        "user",
+        "_profile",
+        "Ġ--",
+        "active",
+        "Ġ-",
+        "avatar"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "profile_card -header -avatar --large",
+      "tokens": [
+        "profile",
+        "_card",
+        "Ġ-",
+        "header",
+        "Ġ-",
+        "avatar",
+        "Ġ--",
+        "large"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile_card -header -info -name -status --online",
+      "tokens": [
+        "profile",
+        "_card",
+        "Ġ-",
+        "header",
+        "Ġ-",
+        "info",
+        "Ġ-",
+        "name",
+        "Ġ-",
+        "status",
+        "Ġ--",
+        "online"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "profile_card -body -stats -stat -followers",
+      "tokens": [
+        "profile",
+        "_card",
+        "Ġ-",
+        "body",
+        "Ġ-",
+        "stats",
+        "Ġ-",
+        "stat",
+        "Ġ-",
+        "followers"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile_card -body -bio -text",
+      "tokens": [
+        "profile",
+        "_card",
+        "Ġ-",
+        "body",
+        "Ġ-",
+        "bio",
+        "Ġ-",
+        "text"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile_card -footer -action --primary",
+      "tokens": [
+        "profile",
+        "_card",
+        "Ġ-",
+        "footer",
+        "Ġ-",
+        "action",
+        "Ġ--",
+        "primary"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile_card -footer -action --secondary",
+      "tokens": [
+        "profile",
+        "_card",
+        "Ġ-",
+        "footer",
+        "Ġ-",
+        "action",
+        "Ġ--",
+        "secondary"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "header_card --sticky -menu -item",
+      "tokens": [
+        "header",
+        "_card",
+        "Ġ--",
+        "sticky",
+        "Ġ-",
+        "menu",
+        "Ġ-",
+        "item"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "form_card --inline -field -checkbox -checked",
+      "tokens": [
+        "form",
+        "_card",
+        "Ġ--",
+        "inline",
+        "Ġ-",
+        "field",
+        "Ġ-",
+        "checkbox",
+        "Ġ-",
+        "checked"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile_card -header -avatar --online --highlighted",
+      "tokens": [
+        "profile",
+        "_card",
+        "Ġ-",
+        "header",
+        "Ġ-",
+        "avatar",
+        "Ġ--",
+        "online",
+        "Ġ--",
+        "highlight",
+        "ed"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "content_card --primary -media -image -caption",
+      "tokens": [
+        "content",
+        "_card",
+        "Ġ--",
+        "primary",
+        "Ġ-",
+        "media",
+        "Ġ-",
+        "image",
+        "Ġ-",
+        "caption"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "grid_card --large -column -item -icon --active",
+      "tokens": [
+        "grid",
+        "_card",
+        "Ġ--",
+        "large",
+        "Ġ-",
+        "column",
+        "Ġ-",
+        "item",
+        "Ġ-",
+        "icon",
+        "Ġ--",
+        "active"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "matrix--shop context--catalog product_card --on_sale -badge",
+      "tokens": [
+        "matrix",
+        "--",
+        "shop",
+        "Ġcontext",
+        "--",
+        "catalog",
+        "Ġproduct",
+        "_card",
+        "Ġ--",
+        "on",
+        "_sale",
+        "Ġ-",
+        "badge"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "product_card -info -price -discounted --in_stock",
+      "tokens": [
+        "product",
+        "_card",
+        "Ġ-",
+        "info",
+        "Ġ-",
+        "price",
+        "Ġ-",
+        "discount",
+        "ed",
+        "Ġ--",
+        "in",
+        "_stock"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "product_card -gallery -thumbnail --zoomable",
+      "tokens": [
+        "product",
+        "_card",
+        "Ġ-",
+        "gallery",
+        "Ġ-",
+        "thumbnail",
+        "Ġ--",
+        "zoom",
+        "able"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "cart_card -item -quantity_field --editable",
+      "tokens": [
+        "cart",
+        "_card",
+        "Ġ-",
+        "item",
+        "Ġ-",
+        "quantity",
+        "_field",
+        "Ġ--",
+        "editable"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "context--blog article_card -header -date -author",
+      "tokens": [
+        "context",
+        "--",
+        "blog",
+        "Ġarticle",
+        "_card",
+        "Ġ-",
+        "header",
+        "Ġ-",
+        "date",
+        "Ġ-",
+        "author"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "article_card -body -content --expanded",
+      "tokens": [
+        "article",
+        "_card",
+        "Ġ-",
+        "body",
+        "Ġ-",
+        "content",
+        "Ġ--",
+        "expanded"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "article_card -footer -tags --highlighted",
+      "tokens": [
+        "article",
+        "_card",
+        "Ġ-",
+        "footer",
+        "Ġ-",
+        "tags",
+        "Ġ--",
+        "highlight",
+        "ed"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "matrix--admin context--dashboard panel_card -header -actions --collapsible",
+      "tokens": [
+        "matrix",
+        "--",
+        "admin",
+        "Ġcontext",
+        "--",
+        "dashboard",
+        "Ġpanel",
+        "_card",
+        "Ġ-",
+        "header",
+        "Ġ-",
+        "actions",
+        "Ġ--",
+        "coll",
+        "apsible"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "panel_card -body -table -row --selected",
+      "tokens": [
+        "panel",
+        "_card",
+        "Ġ-",
+        "body",
+        "Ġ-",
+        "table",
+        "Ġ-",
+        "row",
+        "Ġ--",
+        "selected"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "panel_card -footer --interactive",
+      "tokens": [
+        "panel",
+        "_card",
+        "Ġ-",
+        "footer",
+        "Ġ--",
+        "interactive"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "matrix--community user_profile -stats -followers --engaged",
+      "tokens": [
+        "matrix",
+        "--",
+        "community",
+        "Ġuser",
+        "_profile",
+        "Ġ-",
+        "stats",
+        "Ġ-",
+        "followers",
+        "Ġ--",
+        "eng",
+        "aged"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "user_profile -bio -social_links --verified",
+      "tokens": [
+        "user",
+        "_profile",
+        "Ġ-",
+        "bio",
+        "Ġ-",
+        "social",
+        "_links",
+        "Ġ--",
+        "verified"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "search_panel --has_results -input_container -search_field",
+      "tokens": [
+        "search",
+        "_panel",
+        "Ġ--",
+        "has",
+        "_results",
+        "Ġ-",
+        "input",
+        "_container",
+        "Ġ-",
+        "search",
+        "_field"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "product_card -banner --featured --limited_edition -badge",
+      "tokens": [
+        "product",
+        "_card",
+        "Ġ-",
+        "banner",
+        "Ġ--",
+        "featured",
+        "Ġ--",
+        "limited",
+        "_ed",
+        "ition",
+        "Ġ-",
+        "badge"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "form_card -steps -step --active -hint",
+      "tokens": [
+        "form",
+        "_card",
+        "Ġ-",
+        "steps",
+        "Ġ-",
+        "step",
+        "Ġ--",
+        "active",
+        "Ġ-",
+        "hint"
+      ],
+      "num_tokens": 10
+    }
+  ],
+  "Traditional": [
+    {
+      "input": "product-card",
+      "tokens": [
+        "product",
+        "-card"
+      ],
+      "num_tokens": 2
+    },
+    {
+      "input": "featured-section",
+      "tokens": [
+        "featured",
+        "-section"
+      ],
+      "num_tokens": 2
+    },
+    {
+      "input": "product-card title-part",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġtitle",
+        "-part"
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "product-card title-part description-part",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġtitle",
+        "-part",
+        "Ġdescription",
+        "-part"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "dark-mode-section",
+      "tokens": [
+        "dark",
+        "-mode",
+        "-section"
+      ],
+      "num_tokens": 3
+    },
+    {
+      "input": "button-primary is-large",
+      "tokens": [
+        "button",
+        "-primary",
+        "Ġis",
+        "-large"
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "form-group input-field-part",
+      "tokens": [
+        "form",
+        "-group",
+        "Ġinput",
+        "-field",
+        "-part"
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "user-profile is-active avatar-part",
+      "tokens": [
+        "user",
+        "-profile",
+        "Ġis",
+        "-active",
+        "Ġavatar",
+        "-part"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "profile-card header-part avatar-part is-large",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġheader",
+        "-part",
+        "Ġavatar",
+        "-part",
+        "Ġis",
+        "-large"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile-card header-part info-part name-part status-part is-online",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġheader",
+        "-part",
+        "Ġinfo",
+        "-part",
+        "Ġname",
+        "-part",
+        "Ġstatus",
+        "-part",
+        "Ġis",
+        "-online"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "profile-card body-part stats-part stat-part followers-part",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġbody",
+        "-part",
+        "Ġstats",
+        "-part",
+        "Ġstat",
+        "-part",
+        "Ġfollowers",
+        "-part"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile-card body-part bio-part text-part",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġbody",
+        "-part",
+        "Ġbio",
+        "-part",
+        "Ġtext",
+        "-part"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile-card footer-part action-part is-primary",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġfooter",
+        "-part",
+        "Ġaction",
+        "-part",
+        "Ġis",
+        "-primary"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile-card footer-part action-part is-secondary",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġfooter",
+        "-part",
+        "Ġaction",
+        "-part",
+        "Ġis",
+        "-secondary"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "header-card is-sticky menu-part item-part",
+      "tokens": [
+        "header",
+        "-card",
+        "Ġis",
+        "-st",
+        "icky",
+        "Ġmenu",
+        "-part",
+        "Ġitem",
+        "-part"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "form-card is-inline field-part checkbox-part is-checked",
+      "tokens": [
+        "form",
+        "-card",
+        "Ġis",
+        "-inline",
+        "Ġfield",
+        "-part",
+        "Ġcheckbox",
+        "-part",
+        "Ġis",
+        "-checked"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile-card header-part avatar-part is-online is-highlighted",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġheader",
+        "-part",
+        "Ġavatar",
+        "-part",
+        "Ġis",
+        "-online",
+        "Ġis",
+        "-highlight",
+        "ed"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "content-card is-primary media-part image-part caption-part",
+      "tokens": [
+        "content",
+        "-card",
+        "Ġis",
+        "-primary",
+        "Ġmedia",
+        "-part",
+        "Ġimage",
+        "-part",
+        "Ġcaption",
+        "-part"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "grid-card is-large column-part item-part icon-part is-active",
+      "tokens": [
+        "grid",
+        "-card",
+        "Ġis",
+        "-large",
+        "Ġcolumn",
+        "-part",
+        "Ġitem",
+        "-part",
+        "Ġicon",
+        "-part",
+        "Ġis",
+        "-active"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "shop-matrix catalog-section product-card is-on-sale badge-part",
+      "tokens": [
+        "shop",
+        "-m",
+        "atrix",
+        "Ġcatalog",
+        "-section",
+        "Ġproduct",
+        "-card",
+        "Ġis",
+        "-on",
+        "-sale",
+        "Ġbadge",
+        "-part"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "product-card info-part price-part discounted-part is-in-stock",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġinfo",
+        "-part",
+        "Ġprice",
+        "-part",
+        "Ġdiscounted",
+        "-part",
+        "Ġis",
+        "-in",
+        "-stock"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "product-card gallery-part thumbnail-part is-zoomable",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġgallery",
+        "-part",
+        "Ġthumbnail",
+        "-part",
+        "Ġis",
+        "-z",
+        "oom",
+        "able"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "cart-card item-part quantity-field-part is-editable",
+      "tokens": [
+        "cart",
+        "-card",
+        "Ġitem",
+        "-part",
+        "Ġquantity",
+        "-field",
+        "-part",
+        "Ġis",
+        "-edit",
+        "able"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "blog-section article-card header-part date-part author-part",
+      "tokens": [
+        "blog",
+        "-section",
+        "Ġarticle",
+        "-card",
+        "Ġheader",
+        "-part",
+        "Ġdate",
+        "-part",
+        "Ġauthor",
+        "-part"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "article-card body-part content-part is-expanded",
+      "tokens": [
+        "article",
+        "-card",
+        "Ġbody",
+        "-part",
+        "Ġcontent",
+        "-part",
+        "Ġis",
+        "-expanded"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "article-card footer-part tags-part is-highlighted",
+      "tokens": [
+        "article",
+        "-card",
+        "Ġfooter",
+        "-part",
+        "Ġtags",
+        "-part",
+        "Ġis",
+        "-highlight",
+        "ed"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "admin-matrix dashboard-section panel-card header-part actions-part is-collapsible",
+      "tokens": [
+        "admin",
+        "-m",
+        "atrix",
+        "Ġdashboard",
+        "-section",
+        "Ġpanel",
+        "-card",
+        "Ġheader",
+        "-part",
+        "Ġactions",
+        "-part",
+        "Ġis",
+        "-c",
+        "oll",
+        "apsible"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "panel-card body-part table-part row-part is-selected",
+      "tokens": [
+        "panel",
+        "-card",
+        "Ġbody",
+        "-part",
+        "Ġtable",
+        "-part",
+        "Ġrow",
+        "-part",
+        "Ġis",
+        "-selected"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "panel-card footer-part is-interactive",
+      "tokens": [
+        "panel",
+        "-card",
+        "Ġfooter",
+        "-part",
+        "Ġis",
+        "-",
+        "interactive"
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "community-matrix user-profile stats-part followers-part is-engaged",
+      "tokens": [
+        "community",
+        "-m",
+        "atrix",
+        "Ġuser",
+        "-profile",
+        "Ġstats",
+        "-part",
+        "Ġfollowers",
+        "-part",
+        "Ġis",
+        "-eng",
+        "aged"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "user-profile bio-part social-links-part is-verified",
+      "tokens": [
+        "user",
+        "-profile",
+        "Ġbio",
+        "-part",
+        "Ġsocial",
+        "-links",
+        "-part",
+        "Ġis",
+        "-",
+        "verified"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "search-panel has-results input-container-part search-field-part",
+      "tokens": [
+        "search",
+        "-panel",
+        "Ġhas",
+        "-results",
+        "Ġinput",
+        "-container",
+        "-part",
+        "Ġsearch",
+        "-field",
+        "-part"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "product-card banner-part is-featured is-limited-edition badge-part",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġbanner",
+        "-part",
+        "Ġis",
+        "-",
+        "featured",
+        "Ġis",
+        "-l",
+        "imited",
+        "-ed",
+        "ition",
+        "Ġbadge",
+        "-part"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "form-card steps-part step-part is-active hint-part",
+      "tokens": [
+        "form",
+        "-card",
+        "Ġsteps",
+        "-part",
+        "Ġstep",
+        "-part",
+        "Ġis",
+        "-active",
+        "Ġhint",
+        "-part"
+      ],
+      "num_tokens": 10
+    }
+  ],
+  "BEM": [
+    {
+      "input": "product-card",
+      "tokens": [
+        "product",
+        "-card"
+      ],
+      "num_tokens": 2
+    },
+    {
+      "input": "context context--featured",
+      "tokens": [
+        "context",
+        "Ġcontext",
+        "--",
+        "featured"
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "product-card product-card__title",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġproduct",
+        "-card",
+        "__",
+        "title"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "product-card product-card__title product-card__description",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġproduct",
+        "-card",
+        "__",
+        "title",
+        "Ġproduct",
+        "-card",
+        "__",
+        "description"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "context context--dark-mode",
+      "tokens": [
+        "context",
+        "Ġcontext",
+        "--",
+        "dark",
+        "-mode"
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "button button--primary button--large",
+      "tokens": [
+        "button",
+        "Ġbutton",
+        "--",
+        "primary",
+        "Ġbutton",
+        "--",
+        "large"
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "form-group form-group__input-field",
+      "tokens": [
+        "form",
+        "-group",
+        "Ġform",
+        "-group",
+        "__",
+        "input",
+        "-field"
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "user-profile user-profile--active user-profile__avatar",
+      "tokens": [
+        "user",
+        "-profile",
+        "Ġuser",
+        "-profile",
+        "--",
+        "active",
+        "Ġuser",
+        "-profile",
+        "__",
+        "avatar"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile-card profile-card--large profile-card__header profile-card__avatar",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġprofile",
+        "-card",
+        "--",
+        "large",
+        "Ġprofile",
+        "-card",
+        "__",
+        "header",
+        "Ġprofile",
+        "-card",
+        "__",
+        "avatar"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "profile-card profile-card--online profile-card__header profile-card__info profile-card__name profile-card__status",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġprofile",
+        "-card",
+        "--",
+        "online",
+        "Ġprofile",
+        "-card",
+        "__",
+        "header",
+        "Ġprofile",
+        "-card",
+        "__",
+        "info",
+        "Ġprofile",
+        "-card",
+        "__",
+        "name",
+        "Ġprofile",
+        "-card",
+        "__",
+        "status"
+      ],
+      "num_tokens": 22
+    },
+    {
+      "input": "profile-card profile-card__body profile-card__stats profile-card__stat profile-card__followers",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġprofile",
+        "-card",
+        "__",
+        "body",
+        "Ġprofile",
+        "-card",
+        "__",
+        "stats",
+        "Ġprofile",
+        "-card",
+        "__",
+        "stat",
+        "Ġprofile",
+        "-card",
+        "__",
+        "followers"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "profile-card profile-card__body profile-card__bio profile-card__text",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġprofile",
+        "-card",
+        "__",
+        "body",
+        "Ġprofile",
+        "-card",
+        "__",
+        "bio",
+        "Ġprofile",
+        "-card",
+        "__",
+        "text"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "profile-card profile-card--primary profile-card__footer profile-card__action",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġprofile",
+        "-card",
+        "--",
+        "primary",
+        "Ġprofile",
+        "-card",
+        "__",
+        "footer",
+        "Ġprofile",
+        "-card",
+        "__",
+        "action"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "profile-card profile-card--secondary profile-card__footer profile-card__action",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġprofile",
+        "-card",
+        "--",
+        "secondary",
+        "Ġprofile",
+        "-card",
+        "__",
+        "footer",
+        "Ġprofile",
+        "-card",
+        "__",
+        "action"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "header-card header-card--sticky header-card__menu header-card__item",
+      "tokens": [
+        "header",
+        "-card",
+        "Ġheader",
+        "-card",
+        "--",
+        "sticky",
+        "Ġheader",
+        "-card",
+        "__",
+        "menu",
+        "Ġheader",
+        "-card",
+        "__",
+        "item"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "form-card form-card--inline form-card__field form-card__checkbox form-card__checkbox--checked",
+      "tokens": [
+        "form",
+        "-card",
+        "Ġform",
+        "-card",
+        "--",
+        "inline",
+        "Ġform",
+        "-card",
+        "__",
+        "field",
+        "Ġform",
+        "-card",
+        "__",
+        "checkbox",
+        "Ġform",
+        "-card",
+        "__",
+        "checkbox",
+        "--",
+        "checked"
+      ],
+      "num_tokens": 20
+    },
+    {
+      "input": "profile-card profile-card--online profile-card--highlighted profile-card__header profile-card__avatar",
+      "tokens": [
+        "profile",
+        "-card",
+        "Ġprofile",
+        "-card",
+        "--",
+        "online",
+        "Ġprofile",
+        "-card",
+        "--",
+        "highlight",
+        "ed",
+        "Ġprofile",
+        "-card",
+        "__",
+        "header",
+        "Ġprofile",
+        "-card",
+        "__",
+        "avatar"
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "content-card content-card--primary content-card__media content-card__image content-card__caption",
+      "tokens": [
+        "content",
+        "-card",
+        "Ġcontent",
+        "-card",
+        "--",
+        "primary",
+        "Ġcontent",
+        "-card",
+        "__",
+        "media",
+        "Ġcontent",
+        "-card",
+        "__",
+        "image",
+        "Ġcontent",
+        "-card",
+        "__",
+        "caption"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "grid-card grid-card--large grid-card--active grid-card__column grid-card__item grid-card__icon",
+      "tokens": [
+        "grid",
+        "-card",
+        "Ġgrid",
+        "-card",
+        "--",
+        "large",
+        "Ġgrid",
+        "-card",
+        "--",
+        "active",
+        "Ġgrid",
+        "-card",
+        "__",
+        "column",
+        "Ġgrid",
+        "-card",
+        "__",
+        "item",
+        "Ġgrid",
+        "-card",
+        "__",
+        "icon"
+      ],
+      "num_tokens": 22
+    },
+    {
+      "input": "matrix matrix--shop context context--catalog product-card product-card--on-sale product-card__badge",
+      "tokens": [
+        "matrix",
+        "Ġmatrix",
+        "--",
+        "shop",
+        "Ġcontext",
+        "Ġcontext",
+        "--",
+        "catalog",
+        "Ġproduct",
+        "-card",
+        "Ġproduct",
+        "-card",
+        "--",
+        "on",
+        "-sale",
+        "Ġproduct",
+        "-card",
+        "__",
+        "badge"
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "product-card product-card--in-stock product-card__info product-card__price product-card__discounted",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġproduct",
+        "-card",
+        "--",
+        "in",
+        "-stock",
+        "Ġproduct",
+        "-card",
+        "__",
+        "info",
+        "Ġproduct",
+        "-card",
+        "__",
+        "price",
+        "Ġproduct",
+        "-card",
+        "__",
+        "discount",
+        "ed"
+      ],
+      "num_tokens": 20
+    },
+    {
+      "input": "product-card product-card--zoomable product-card__gallery product-card__thumbnail",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġproduct",
+        "-card",
+        "--",
+        "zoom",
+        "able",
+        "Ġproduct",
+        "-card",
+        "__",
+        "gallery",
+        "Ġproduct",
+        "-card",
+        "__",
+        "thumbnail"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "cart-card cart-card--editable cart-card__item cart-card__quantity-field",
+      "tokens": [
+        "cart",
+        "-card",
+        "Ġcart",
+        "-card",
+        "--",
+        "editable",
+        "Ġcart",
+        "-card",
+        "__",
+        "item",
+        "Ġcart",
+        "-card",
+        "__",
+        "quantity",
+        "-field"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "context context--blog article-card article-card__header article-card__date article-card__author",
+      "tokens": [
+        "context",
+        "Ġcontext",
+        "--",
+        "blog",
+        "Ġarticle",
+        "-card",
+        "Ġarticle",
+        "-card",
+        "__",
+        "header",
+        "Ġarticle",
+        "-card",
+        "__",
+        "date",
+        "Ġarticle",
+        "-card",
+        "__",
+        "author"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "article-card article-card--expanded article-card__body article-card__content",
+      "tokens": [
+        "article",
+        "-card",
+        "Ġarticle",
+        "-card",
+        "--",
+        "expanded",
+        "Ġarticle",
+        "-card",
+        "__",
+        "body",
+        "Ġarticle",
+        "-card",
+        "__",
+        "content"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "article-card article-card--highlighted article-card__footer article-card__tags",
+      "tokens": [
+        "article",
+        "-card",
+        "Ġarticle",
+        "-card",
+        "--",
+        "highlight",
+        "ed",
+        "Ġarticle",
+        "-card",
+        "__",
+        "footer",
+        "Ġarticle",
+        "-card",
+        "__",
+        "tags"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "matrix matrix--admin context context--dashboard panel-card panel-card--collapsible panel-card__header panel-card__actions",
+      "tokens": [
+        "matrix",
+        "Ġmatrix",
+        "--",
+        "admin",
+        "Ġcontext",
+        "Ġcontext",
+        "--",
+        "dashboard",
+        "Ġpanel",
+        "-card",
+        "Ġpanel",
+        "-card",
+        "--",
+        "coll",
+        "apsible",
+        "Ġpanel",
+        "-card",
+        "__",
+        "header",
+        "Ġpanel",
+        "-card",
+        "__",
+        "actions"
+      ],
+      "num_tokens": 23
+    },
+    {
+      "input": "panel-card panel-card--selected panel-card__body panel-card__table panel-card__row",
+      "tokens": [
+        "panel",
+        "-card",
+        "Ġpanel",
+        "-card",
+        "--",
+        "selected",
+        "Ġpanel",
+        "-card",
+        "__",
+        "body",
+        "Ġpanel",
+        "-card",
+        "__",
+        "table",
+        "Ġpanel",
+        "-card",
+        "__",
+        "row"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "panel-card panel-card--interactive panel-card__footer",
+      "tokens": [
+        "panel",
+        "-card",
+        "Ġpanel",
+        "-card",
+        "--",
+        "interactive",
+        "Ġpanel",
+        "-card",
+        "__",
+        "footer"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "matrix matrix--community user-profile user-profile--engaged user-profile__stats user-profile__followers",
+      "tokens": [
+        "matrix",
+        "Ġmatrix",
+        "--",
+        "community",
+        "Ġuser",
+        "-profile",
+        "Ġuser",
+        "-profile",
+        "--",
+        "eng",
+        "aged",
+        "Ġuser",
+        "-profile",
+        "__",
+        "stats",
+        "Ġuser",
+        "-profile",
+        "__",
+        "followers"
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "user-profile user-profile--verified user-profile__bio user-profile__social-links",
+      "tokens": [
+        "user",
+        "-profile",
+        "Ġuser",
+        "-profile",
+        "--",
+        "verified",
+        "Ġuser",
+        "-profile",
+        "__",
+        "bio",
+        "Ġuser",
+        "-profile",
+        "__",
+        "social",
+        "-links"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "search-panel search-panel--has-results search-panel__input-container search-panel__search-field",
+      "tokens": [
+        "search",
+        "-panel",
+        "Ġsearch",
+        "-panel",
+        "--",
+        "has",
+        "-results",
+        "Ġsearch",
+        "-panel",
+        "__",
+        "input",
+        "-container",
+        "Ġsearch",
+        "-panel",
+        "__",
+        "search",
+        "-field"
+      ],
+      "num_tokens": 17
+    },
+    {
+      "input": "product-card product-card--featured product-card--limited-edition product-card__banner product-card__badge",
+      "tokens": [
+        "product",
+        "-card",
+        "Ġproduct",
+        "-card",
+        "--",
+        "featured",
+        "Ġproduct",
+        "-card",
+        "--",
+        "limited",
+        "-ed",
+        "ition",
+        "Ġproduct",
+        "-card",
+        "__",
+        "banner",
+        "Ġproduct",
+        "-card",
+        "__",
+        "badge"
+      ],
+      "num_tokens": 20
+    },
+    {
+      "input": "form-card form-card--active form-card__steps form-card__step form-card__hint",
+      "tokens": [
+        "form",
+        "-card",
+        "Ġform",
+        "-card",
+        "--",
+        "active",
+        "Ġform",
+        "-card",
+        "__",
+        "steps",
+        "Ġform",
+        "-card",
+        "__",
+        "step",
+        "Ġform",
+        "-card",
+        "__",
+        "hint"
+      ],
+      "num_tokens": 18
+    }
+  ]
+}
