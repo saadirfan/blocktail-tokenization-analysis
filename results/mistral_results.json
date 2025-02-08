@@ -1,0 +1,2090 @@
+{
+  "Blocktail": [
+    {
+      "input": "product_card",
+      "tokens": [
+        "▁product",
+        "_",
+        "card"
+      ],
+      "num_tokens": 3
+    },
+    {
+      "input": "context--featured",
+      "tokens": [
+        "▁context",
+        "--",
+        "feature",
+        "d"
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "product_card -title",
+      "tokens": [
+        "▁product",
+        "_",
+        "card",
+        "▁-",
+        "title"
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "product_card -title -description",
+      "tokens": [
+        "▁product",
+        "_",
+        "card",
+        "▁-",
+        "title",
+        "▁-",
+        "description"
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "context--dark_mode",
+      "tokens": [
+        "▁context",
+        "--",
+        "dark",
+        "_",
+        "mode"
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "button_primary --large",
+      "tokens": [
+        "▁button",
+        "_",
+        "primary",
+        "▁--",
+        "large"
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "form_group -input_field",
+      "tokens": [
+        "▁form",
+        "_",
+        "group",
+        "▁-",
+        "input",
+        "_",
+        "field"
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "user_profile --active -avatar",
+      "tokens": [
+        "▁user",
+        "_",
+        "profile",
+        "▁--",
+        "active",
+        "▁-",
+        "av",
+        "atar"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile_card -header -avatar --large",
+      "tokens": [
+        "▁profile",
+        "_",
+        "card",
+        "▁-",
+        "header",
+        "▁-",
+        "av",
+        "atar",
+        "▁--",
+        "large"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile_card -header -info -name -status --online",
+      "tokens": [
+        "▁profile",
+        "_",
+        "card",
+        "▁-",
+        "header",
+        "▁-",
+        "info",
+        "▁-",
+        "name",
+        "▁-",
+        "status",
+        "▁--",
+        "online"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "profile_card -body -stats -stat -followers",
+      "tokens": [
+        "▁profile",
+        "_",
+        "card",
+        "▁-",
+        "body",
+        "▁-",
+        "stats",
+        "▁-",
+        "stat",
+        "▁-",
+        "follow",
+        "ers"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "profile_card -body -bio -text",
+      "tokens": [
+        "▁profile",
+        "_",
+        "card",
+        "▁-",
+        "body",
+        "▁-",
+        "bio",
+        "▁-",
+        "text"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "profile_card -footer -action --primary",
+      "tokens": [
+        "▁profile",
+        "_",
+        "card",
+        "▁-",
+        "footer",
+        "▁-",
+        "action",
+        "▁--",
+        "primary"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "profile_card -footer -action --secondary",
+      "tokens": [
+        "▁profile",
+        "_",
+        "card",
+        "▁-",
+        "footer",
+        "▁-",
+        "action",
+        "▁--",
+        "secondary"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "header_card --sticky -menu -item",
+      "tokens": [
+        "▁header",
+        "_",
+        "card",
+        "▁--",
+        "st",
+        "icky",
+        "▁-",
+        "menu",
+        "▁-",
+        "item"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "form_card --inline -field -checkbox -checked",
+      "tokens": [
+        "▁form",
+        "_",
+        "card",
+        "▁--",
+        "inline",
+        "▁-",
+        "field",
+        "▁-",
+        "checkbox",
+        "▁-",
+        "checked"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "profile_card -header -avatar --online --highlighted",
+      "tokens": [
+        "▁profile",
+        "_",
+        "card",
+        "▁-",
+        "header",
+        "▁-",
+        "av",
+        "atar",
+        "▁--",
+        "online",
+        "▁--",
+        "high",
+        "light",
+        "ed"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "content_card --primary -media -image -caption",
+      "tokens": [
+        "▁content",
+        "_",
+        "card",
+        "▁--",
+        "primary",
+        "▁-",
+        "media",
+        "▁-",
+        "image",
+        "▁-",
+        "caption"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "grid_card --large -column -item -icon --active",
+      "tokens": [
+        "▁grid",
+        "_",
+        "card",
+        "▁--",
+        "large",
+        "▁-",
+        "column",
+        "▁-",
+        "item",
+        "▁-",
+        "icon",
+        "▁--",
+        "active"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "matrix--shop context--catalog product_card --on_sale -badge",
+      "tokens": [
+        "▁matrix",
+        "--",
+        "shop",
+        "▁context",
+        "--",
+        "catalog",
+        "▁product",
+        "_",
+        "card",
+        "▁--",
+        "on",
+        "_",
+        "s",
+        "ale",
+        "▁-",
+        "bad",
+        "ge"
+      ],
+      "num_tokens": 17
+    },
+    {
+      "input": "product_card -info -price -discounted --in_stock",
+      "tokens": [
+        "▁product",
+        "_",
+        "card",
+        "▁-",
+        "info",
+        "▁-",
+        "price",
+        "▁-",
+        "dis",
+        "count",
+        "ed",
+        "▁--",
+        "in",
+        "_",
+        "stock"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "product_card -gallery -thumbnail --zoomable",
+      "tokens": [
+        "▁product",
+        "_",
+        "card",
+        "▁-",
+        "g",
+        "allery",
+        "▁-",
+        "thumb",
+        "nail",
+        "▁--",
+        "zoom",
+        "able"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "cart_card -item -quantity_field --editable",
+      "tokens": [
+        "▁cart",
+        "_",
+        "card",
+        "▁-",
+        "item",
+        "▁-",
+        "quant",
+        "ity",
+        "_",
+        "field",
+        "▁--",
+        "ed",
+        "itable"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "context--blog article_card -header -date -author",
+      "tokens": [
+        "▁context",
+        "--",
+        "blog",
+        "▁article",
+        "_",
+        "card",
+        "▁-",
+        "header",
+        "▁-",
+        "date",
+        "▁-",
+        "author"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "article_card -body -content --expanded",
+      "tokens": [
+        "▁article",
+        "_",
+        "card",
+        "▁-",
+        "body",
+        "▁-",
+        "content",
+        "▁--",
+        "exp",
+        "anded"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "article_card -footer -tags --highlighted",
+      "tokens": [
+        "▁article",
+        "_",
+        "card",
+        "▁-",
+        "footer",
+        "▁-",
+        "tags",
+        "▁--",
+        "high",
+        "light",
+        "ed"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "matrix--admin context--dashboard panel_card -header -actions --collapsible",
+      "tokens": [
+        "▁matrix",
+        "--",
+        "admin",
+        "▁context",
+        "--",
+        "dashboard",
+        "▁panel",
+        "_",
+        "card",
+        "▁-",
+        "header",
+        "▁-",
+        "actions",
+        "▁--",
+        "coll",
+        "aps",
+        "ible"
+      ],
+      "num_tokens": 17
+    },
+    {
+      "input": "panel_card -body -table -row --selected",
+      "tokens": [
+        "▁panel",
+        "_",
+        "card",
+        "▁-",
+        "body",
+        "▁-",
+        "table",
+        "▁-",
+        "row",
+        "▁--",
+        "selected"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "panel_card -footer --interactive",
+      "tokens": [
+        "▁panel",
+        "_",
+        "card",
+        "▁-",
+        "footer",
+        "▁--",
+        "inter",
+        "active"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "matrix--community user_profile -stats -followers --engaged",
+      "tokens": [
+        "▁matrix",
+        "--",
+        "commun",
+        "ity",
+        "▁user",
+        "_",
+        "profile",
+        "▁-",
+        "stats",
+        "▁-",
+        "follow",
+        "ers",
+        "▁--",
+        "eng",
+        "aged"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "user_profile -bio -social_links --verified",
+      "tokens": [
+        "▁user",
+        "_",
+        "profile",
+        "▁-",
+        "bio",
+        "▁-",
+        "social",
+        "_",
+        "links",
+        "▁--",
+        "ver",
+        "ified"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "search_panel --has_results -input_container -search_field",
+      "tokens": [
+        "▁search",
+        "_",
+        "panel",
+        "▁--",
+        "has",
+        "_",
+        "results",
+        "▁-",
+        "input",
+        "_",
+        "container",
+        "▁-",
+        "search",
+        "_",
+        "field"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "product_card -banner --featured --limited_edition -badge",
+      "tokens": [
+        "▁product",
+        "_",
+        "card",
+        "▁-",
+        "b",
+        "anner",
+        "▁--",
+        "feature",
+        "d",
+        "▁--",
+        "limited",
+        "_",
+        "ed",
+        "ition",
+        "▁-",
+        "bad",
+        "ge"
+      ],
+      "num_tokens": 17
+    },
+    {
+      "input": "form_card -steps -step --active -hint",
+      "tokens": [
+        "▁form",
+        "_",
+        "card",
+        "▁-",
+        "steps",
+        "▁-",
+        "step",
+        "▁--",
+        "active",
+        "▁-",
+        "hint"
+      ],
+      "num_tokens": 11
+    }
+  ],
+  "Traditional": [
+    {
+      "input": "product-card",
+      "tokens": [
+        "▁product",
+        "-",
+        "card"
+      ],
+      "num_tokens": 3
+    },
+    {
+      "input": "featured-section",
+      "tokens": [
+        "▁featured",
+        "-",
+        "section"
+      ],
+      "num_tokens": 3
+    },
+    {
+      "input": "product-card title-part",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁title",
+        "-",
+        "part"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "product-card title-part description-part",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁title",
+        "-",
+        "part",
+        "▁description",
+        "-",
+        "part"
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "dark-mode-section",
+      "tokens": [
+        "▁dark",
+        "-",
+        "mode",
+        "-",
+        "section"
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "button-primary is-large",
+      "tokens": [
+        "▁button",
+        "-",
+        "primary",
+        "▁is",
+        "-",
+        "large"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "form-group input-field-part",
+      "tokens": [
+        "▁form",
+        "-",
+        "group",
+        "▁input",
+        "-",
+        "field",
+        "-",
+        "part"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "user-profile is-active avatar-part",
+      "tokens": [
+        "▁user",
+        "-",
+        "profile",
+        "▁is",
+        "-",
+        "active",
+        "▁av",
+        "atar",
+        "-",
+        "part"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile-card header-part avatar-part is-large",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁header",
+        "-",
+        "part",
+        "▁av",
+        "atar",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "large"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "profile-card header-part info-part name-part status-part is-online",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁header",
+        "-",
+        "part",
+        "▁info",
+        "-",
+        "part",
+        "▁name",
+        "-",
+        "part",
+        "▁status",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "online"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "profile-card body-part stats-part stat-part followers-part",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁body",
+        "-",
+        "part",
+        "▁stats",
+        "-",
+        "part",
+        "▁stat",
+        "-",
+        "part",
+        "▁followers",
+        "-",
+        "part"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "profile-card body-part bio-part text-part",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁body",
+        "-",
+        "part",
+        "▁bio",
+        "-",
+        "part",
+        "▁text",
+        "-",
+        "part"
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "profile-card footer-part action-part is-primary",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁foot",
+        "er",
+        "-",
+        "part",
+        "▁action",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "primary"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "profile-card footer-part action-part is-secondary",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁foot",
+        "er",
+        "-",
+        "part",
+        "▁action",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "secondary"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "header-card is-sticky menu-part item-part",
+      "tokens": [
+        "▁header",
+        "-",
+        "card",
+        "▁is",
+        "-",
+        "st",
+        "icky",
+        "▁menu",
+        "-",
+        "part",
+        "▁item",
+        "-",
+        "part"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "form-card is-inline field-part checkbox-part is-checked",
+      "tokens": [
+        "▁form",
+        "-",
+        "card",
+        "▁is",
+        "-",
+        "inline",
+        "▁field",
+        "-",
+        "part",
+        "▁check",
+        "box",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "checked"
+      ],
+      "num_tokens": 16
+    },
+    {
+      "input": "profile-card header-part avatar-part is-online is-highlighted",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁header",
+        "-",
+        "part",
+        "▁av",
+        "atar",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "online",
+        "▁is",
+        "-",
+        "high",
+        "light",
+        "ed"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "content-card is-primary media-part image-part caption-part",
+      "tokens": [
+        "▁content",
+        "-",
+        "card",
+        "▁is",
+        "-",
+        "primary",
+        "▁media",
+        "-",
+        "part",
+        "▁image",
+        "-",
+        "part",
+        "▁c",
+        "aption",
+        "-",
+        "part"
+      ],
+      "num_tokens": 16
+    },
+    {
+      "input": "grid-card is-large column-part item-part icon-part is-active",
+      "tokens": [
+        "▁grid",
+        "-",
+        "card",
+        "▁is",
+        "-",
+        "large",
+        "▁column",
+        "-",
+        "part",
+        "▁item",
+        "-",
+        "part",
+        "▁icon",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "active"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "shop-matrix catalog-section product-card is-on-sale badge-part",
+      "tokens": [
+        "▁shop",
+        "-",
+        "matrix",
+        "▁catalog",
+        "-",
+        "section",
+        "▁product",
+        "-",
+        "card",
+        "▁is",
+        "-",
+        "on",
+        "-",
+        "s",
+        "ale",
+        "▁bad",
+        "ge",
+        "-",
+        "part"
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "product-card info-part price-part discounted-part is-in-stock",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁info",
+        "-",
+        "part",
+        "▁price",
+        "-",
+        "part",
+        "▁discount",
+        "ed",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "in",
+        "-",
+        "stock"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "product-card gallery-part thumbnail-part is-zoomable",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁gallery",
+        "-",
+        "part",
+        "▁thumb",
+        "nail",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "zoom",
+        "able"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "cart-card item-part quantity-field-part is-editable",
+      "tokens": [
+        "▁cart",
+        "-",
+        "card",
+        "▁item",
+        "-",
+        "part",
+        "▁quantity",
+        "-",
+        "field",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "ed",
+        "itable"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "blog-section article-card header-part date-part author-part",
+      "tokens": [
+        "▁blog",
+        "-",
+        "section",
+        "▁article",
+        "-",
+        "card",
+        "▁header",
+        "-",
+        "part",
+        "▁date",
+        "-",
+        "part",
+        "▁author",
+        "-",
+        "part"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "article-card body-part content-part is-expanded",
+      "tokens": [
+        "▁article",
+        "-",
+        "card",
+        "▁body",
+        "-",
+        "part",
+        "▁content",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "exp",
+        "anded"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "article-card footer-part tags-part is-highlighted",
+      "tokens": [
+        "▁article",
+        "-",
+        "card",
+        "▁foot",
+        "er",
+        "-",
+        "part",
+        "▁tags",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "high",
+        "light",
+        "ed"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "admin-matrix dashboard-section panel-card header-part actions-part is-collapsible",
+      "tokens": [
+        "▁admin",
+        "-",
+        "matrix",
+        "▁d",
+        "ashboard",
+        "-",
+        "section",
+        "▁panel",
+        "-",
+        "card",
+        "▁header",
+        "-",
+        "part",
+        "▁actions",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "coll",
+        "aps",
+        "ible"
+      ],
+      "num_tokens": 21
+    },
+    {
+      "input": "panel-card body-part table-part row-part is-selected",
+      "tokens": [
+        "▁panel",
+        "-",
+        "card",
+        "▁body",
+        "-",
+        "part",
+        "▁table",
+        "-",
+        "part",
+        "▁row",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "selected"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "panel-card footer-part is-interactive",
+      "tokens": [
+        "▁panel",
+        "-",
+        "card",
+        "▁foot",
+        "er",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "inter",
+        "active"
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "community-matrix user-profile stats-part followers-part is-engaged",
+      "tokens": [
+        "▁community",
+        "-",
+        "matrix",
+        "▁user",
+        "-",
+        "profile",
+        "▁stats",
+        "-",
+        "part",
+        "▁followers",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "eng",
+        "aged"
+      ],
+      "num_tokens": 16
+    },
+    {
+      "input": "user-profile bio-part social-links-part is-verified",
+      "tokens": [
+        "▁user",
+        "-",
+        "profile",
+        "▁bio",
+        "-",
+        "part",
+        "▁social",
+        "-",
+        "links",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "ver",
+        "ified"
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "search-panel has-results input-container-part search-field-part",
+      "tokens": [
+        "▁search",
+        "-",
+        "panel",
+        "▁has",
+        "-",
+        "results",
+        "▁input",
+        "-",
+        "container",
+        "-",
+        "part",
+        "▁search",
+        "-",
+        "field",
+        "-",
+        "part"
+      ],
+      "num_tokens": 16
+    },
+    {
+      "input": "product-card banner-part is-featured is-limited-edition badge-part",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁b",
+        "anner",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "feature",
+        "d",
+        "▁is",
+        "-",
+        "limited",
+        "-",
+        "ed",
+        "ition",
+        "▁bad",
+        "ge",
+        "-",
+        "part"
+      ],
+      "num_tokens": 21
+    },
+    {
+      "input": "form-card steps-part step-part is-active hint-part",
+      "tokens": [
+        "▁form",
+        "-",
+        "card",
+        "▁steps",
+        "-",
+        "part",
+        "▁step",
+        "-",
+        "part",
+        "▁is",
+        "-",
+        "active",
+        "▁hint",
+        "-",
+        "part"
+      ],
+      "num_tokens": 15
+    }
+  ],
+  "BEM": [
+    {
+      "input": "product-card",
+      "tokens": [
+        "▁product",
+        "-",
+        "card"
+      ],
+      "num_tokens": 3
+    },
+    {
+      "input": "context context--featured",
+      "tokens": [
+        "▁context",
+        "▁context",
+        "--",
+        "feature",
+        "d"
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "product-card product-card__title",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "title"
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "product-card product-card__title product-card__description",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "title",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "description"
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "context context--dark-mode",
+      "tokens": [
+        "▁context",
+        "▁context",
+        "--",
+        "dark",
+        "-",
+        "mode"
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "button button--primary button--large",
+      "tokens": [
+        "▁button",
+        "▁button",
+        "--",
+        "primary",
+        "▁button",
+        "--",
+        "large"
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "form-group form-group__input-field",
+      "tokens": [
+        "▁form",
+        "-",
+        "group",
+        "▁form",
+        "-",
+        "group",
+        "__",
+        "input",
+        "-",
+        "field"
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "user-profile user-profile--active user-profile__avatar",
+      "tokens": [
+        "▁user",
+        "-",
+        "profile",
+        "▁user",
+        "-",
+        "profile",
+        "--",
+        "active",
+        "▁user",
+        "-",
+        "profile",
+        "__",
+        "av",
+        "atar"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "profile-card profile-card--large profile-card__header profile-card__avatar",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁profile",
+        "-",
+        "card",
+        "--",
+        "large",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "header",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "av",
+        "atar"
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "profile-card profile-card--online profile-card__header profile-card__info profile-card__name profile-card__status",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁profile",
+        "-",
+        "card",
+        "--",
+        "online",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "header",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "info",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "name",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "status"
+      ],
+      "num_tokens": 28
+    },
+    {
+      "input": "profile-card profile-card__body profile-card__stats profile-card__stat profile-card__followers",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "body",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "stats",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "stat",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "follow",
+        "ers"
+      ],
+      "num_tokens": 24
+    },
+    {
+      "input": "profile-card profile-card__body profile-card__bio profile-card__text",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "body",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "bio",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "text"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "profile-card profile-card--primary profile-card__footer profile-card__action",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁profile",
+        "-",
+        "card",
+        "--",
+        "primary",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "footer",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "action"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "profile-card profile-card--secondary profile-card__footer profile-card__action",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁profile",
+        "-",
+        "card",
+        "--",
+        "secondary",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "footer",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "action"
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "header-card header-card--sticky header-card__menu header-card__item",
+      "tokens": [
+        "▁header",
+        "-",
+        "card",
+        "▁header",
+        "-",
+        "card",
+        "--",
+        "st",
+        "icky",
+        "▁header",
+        "-",
+        "card",
+        "__",
+        "menu",
+        "▁header",
+        "-",
+        "card",
+        "__",
+        "item"
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "form-card form-card--inline form-card__field form-card__checkbox form-card__checkbox--checked",
+      "tokens": [
+        "▁form",
+        "-",
+        "card",
+        "▁form",
+        "-",
+        "card",
+        "--",
+        "inline",
+        "▁form",
+        "-",
+        "card",
+        "__",
+        "field",
+        "▁form",
+        "-",
+        "card",
+        "__",
+        "checkbox",
+        "▁form",
+        "-",
+        "card",
+        "__",
+        "checkbox",
+        "--",
+        "checked"
+      ],
+      "num_tokens": 25
+    },
+    {
+      "input": "profile-card profile-card--online profile-card--highlighted profile-card__header profile-card__avatar",
+      "tokens": [
+        "▁profile",
+        "-",
+        "card",
+        "▁profile",
+        "-",
+        "card",
+        "--",
+        "online",
+        "▁profile",
+        "-",
+        "card",
+        "--",
+        "high",
+        "light",
+        "ed",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "header",
+        "▁profile",
+        "-",
+        "card",
+        "__",
+        "av",
+        "atar"
+      ],
+      "num_tokens": 26
+    },
+    {
+      "input": "content-card content-card--primary content-card__media content-card__image content-card__caption",
+      "tokens": [
+        "▁content",
+        "-",
+        "card",
+        "▁content",
+        "-",
+        "card",
+        "--",
+        "primary",
+        "▁content",
+        "-",
+        "card",
+        "__",
+        "media",
+        "▁content",
+        "-",
+        "card",
+        "__",
+        "image",
+        "▁content",
+        "-",
+        "card",
+        "__",
+        "caption"
+      ],
+      "num_tokens": 23
+    },
+    {
+      "input": "grid-card grid-card--large grid-card--active grid-card__column grid-card__item grid-card__icon",
+      "tokens": [
+        "▁grid",
+        "-",
+        "card",
+        "▁grid",
+        "-",
+        "card",
+        "--",
+        "large",
+        "▁grid",
+        "-",
+        "card",
+        "--",
+        "active",
+        "▁grid",
+        "-",
+        "card",
+        "__",
+        "column",
+        "▁grid",
+        "-",
+        "card",
+        "__",
+        "item",
+        "▁grid",
+        "-",
+        "card",
+        "__",
+        "icon"
+      ],
+      "num_tokens": 28
+    },
+    {
+      "input": "matrix matrix--shop context context--catalog product-card product-card--on-sale product-card__badge",
+      "tokens": [
+        "▁matrix",
+        "▁matrix",
+        "--",
+        "shop",
+        "▁context",
+        "▁context",
+        "--",
+        "catalog",
+        "▁product",
+        "-",
+        "card",
+        "▁product",
+        "-",
+        "card",
+        "--",
+        "on",
+        "-",
+        "s",
+        "ale",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "bad",
+        "ge"
+      ],
+      "num_tokens": 25
+    },
+    {
+      "input": "product-card product-card--in-stock product-card__info product-card__price product-card__discounted",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁product",
+        "-",
+        "card",
+        "--",
+        "in",
+        "-",
+        "stock",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "info",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "price",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "dis",
+        "count",
+        "ed"
+      ],
+      "num_tokens": 27
+    },
+    {
+      "input": "product-card product-card--zoomable product-card__gallery product-card__thumbnail",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁product",
+        "-",
+        "card",
+        "--",
+        "zoom",
+        "able",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "g",
+        "allery",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "thumb",
+        "nail"
+      ],
+      "num_tokens": 21
+    },
+    {
+      "input": "cart-card cart-card--editable cart-card__item cart-card__quantity-field",
+      "tokens": [
+        "▁cart",
+        "-",
+        "card",
+        "▁cart",
+        "-",
+        "card",
+        "--",
+        "ed",
+        "itable",
+        "▁cart",
+        "-",
+        "card",
+        "__",
+        "item",
+        "▁cart",
+        "-",
+        "card",
+        "__",
+        "quant",
+        "ity",
+        "-",
+        "field"
+      ],
+      "num_tokens": 22
+    },
+    {
+      "input": "context context--blog article-card article-card__header article-card__date article-card__author",
+      "tokens": [
+        "▁context",
+        "▁context",
+        "--",
+        "blog",
+        "▁article",
+        "-",
+        "card",
+        "▁article",
+        "-",
+        "card",
+        "__",
+        "header",
+        "▁article",
+        "-",
+        "card",
+        "__",
+        "date",
+        "▁article",
+        "-",
+        "card",
+        "__",
+        "author"
+      ],
+      "num_tokens": 22
+    },
+    {
+      "input": "article-card article-card--expanded article-card__body article-card__content",
+      "tokens": [
+        "▁article",
+        "-",
+        "card",
+        "▁article",
+        "-",
+        "card",
+        "--",
+        "exp",
+        "anded",
+        "▁article",
+        "-",
+        "card",
+        "__",
+        "body",
+        "▁article",
+        "-",
+        "card",
+        "__",
+        "content"
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "article-card article-card--highlighted article-card__footer article-card__tags",
+      "tokens": [
+        "▁article",
+        "-",
+        "card",
+        "▁article",
+        "-",
+        "card",
+        "--",
+        "high",
+        "light",
+        "ed",
+        "▁article",
+        "-",
+        "card",
+        "__",
+        "footer",
+        "▁article",
+        "-",
+        "card",
+        "__",
+        "tags"
+      ],
+      "num_tokens": 20
+    },
+    {
+      "input": "matrix matrix--admin context context--dashboard panel-card panel-card--collapsible panel-card__header panel-card__actions",
+      "tokens": [
+        "▁matrix",
+        "▁matrix",
+        "--",
+        "admin",
+        "▁context",
+        "▁context",
+        "--",
+        "dashboard",
+        "▁panel",
+        "-",
+        "card",
+        "▁panel",
+        "-",
+        "card",
+        "--",
+        "coll",
+        "aps",
+        "ible",
+        "▁panel",
+        "-",
+        "card",
+        "__",
+        "header",
+        "▁panel",
+        "-",
+        "card",
+        "__",
+        "actions"
+      ],
+      "num_tokens": 28
+    },
+    {
+      "input": "panel-card panel-card--selected panel-card__body panel-card__table panel-card__row",
+      "tokens": [
+        "▁panel",
+        "-",
+        "card",
+        "▁panel",
+        "-",
+        "card",
+        "--",
+        "selected",
+        "▁panel",
+        "-",
+        "card",
+        "__",
+        "body",
+        "▁panel",
+        "-",
+        "card",
+        "__",
+        "table",
+        "▁panel",
+        "-",
+        "card",
+        "__",
+        "row"
+      ],
+      "num_tokens": 23
+    },
+    {
+      "input": "panel-card panel-card--interactive panel-card__footer",
+      "tokens": [
+        "▁panel",
+        "-",
+        "card",
+        "▁panel",
+        "-",
+        "card",
+        "--",
+        "inter",
+        "active",
+        "▁panel",
+        "-",
+        "card",
+        "__",
+        "footer"
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "matrix matrix--community user-profile user-profile--engaged user-profile__stats user-profile__followers",
+      "tokens": [
+        "▁matrix",
+        "▁matrix",
+        "--",
+        "commun",
+        "ity",
+        "▁user",
+        "-",
+        "profile",
+        "▁user",
+        "-",
+        "profile",
+        "--",
+        "eng",
+        "aged",
+        "▁user",
+        "-",
+        "profile",
+        "__",
+        "stats",
+        "▁user",
+        "-",
+        "profile",
+        "__",
+        "follow",
+        "ers"
+      ],
+      "num_tokens": 25
+    },
+    {
+      "input": "user-profile user-profile--verified user-profile__bio user-profile__social-links",
+      "tokens": [
+        "▁user",
+        "-",
+        "profile",
+        "▁user",
+        "-",
+        "profile",
+        "--",
+        "ver",
+        "ified",
+        "▁user",
+        "-",
+        "profile",
+        "__",
+        "bio",
+        "▁user",
+        "-",
+        "profile",
+        "__",
+        "social",
+        "-",
+        "links"
+      ],
+      "num_tokens": 21
+    },
+    {
+      "input": "search-panel search-panel--has-results search-panel__input-container search-panel__search-field",
+      "tokens": [
+        "▁search",
+        "-",
+        "panel",
+        "▁search",
+        "-",
+        "panel",
+        "--",
+        "has",
+        "-",
+        "results",
+        "▁search",
+        "-",
+        "panel",
+        "__",
+        "input",
+        "-",
+        "container",
+        "▁search",
+        "-",
+        "panel",
+        "__",
+        "search",
+        "-",
+        "field"
+      ],
+      "num_tokens": 24
+    },
+    {
+      "input": "product-card product-card--featured product-card--limited-edition product-card__banner product-card__badge",
+      "tokens": [
+        "▁product",
+        "-",
+        "card",
+        "▁product",
+        "-",
+        "card",
+        "--",
+        "feature",
+        "d",
+        "▁product",
+        "-",
+        "card",
+        "--",
+        "limited",
+        "-",
+        "ed",
+        "ition",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "b",
+        "anner",
+        "▁product",
+        "-",
+        "card",
+        "__",
+        "bad",
+        "ge"
+      ],
+      "num_tokens": 29
+    },
+    {
+      "input": "form-card form-card--active form-card__steps form-card__step form-card__hint",
+      "tokens": [
+        "▁form",
+        "-",
+        "card",
+        "▁form",
+        "-",
+        "card",
+        "--",
+        "active",
+        "▁form",
+        "-",
+        "card",
+        "__",
+        "steps",
+        "▁form",
+        "-",
+        "card",
+        "__",
+        "step",
+        "▁form",
+        "-",
+        "card",
+        "__",
+        "hint"
+      ],
+      "num_tokens": 23
+    }
+  ]
+}

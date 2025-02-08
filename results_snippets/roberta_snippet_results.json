@@ -1,0 +1,32 @@
+{
+  "Blocktail": [
+    {
+      "snippet_name": "Product Grid Snippet",
+      "num_tokens": 152
+    },
+    {
+      "snippet_name": "Nested Context Example",
+      "num_tokens": 97
+    }
+  ],
+  "Traditional": [
+    {
+      "snippet_name": "Product Grid Snippet",
+      "num_tokens": 153
+    },
+    {
+      "snippet_name": "Nested Context Example",
+      "num_tokens": 94
+    }
+  ],
+  "BEM": [
+    {
+      "snippet_name": "Product Grid Snippet",
+      "num_tokens": 176
+    },
+    {
+      "snippet_name": "Nested Context Example",
+      "num_tokens": 112
+    }
+  ]
+}

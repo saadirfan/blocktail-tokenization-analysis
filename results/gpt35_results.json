@@ -1,0 +1,1707 @@
+{
+  "Blocktail": [
+    {
+      "input": "product_card",
+      "tokens": [
+        3107,
+        17315
+      ],
+      "num_tokens": 2
+    },
+    {
+      "input": "context--featured",
+      "tokens": [
+        2196,
+        313,
+        37315
+      ],
+      "num_tokens": 3
+    },
+    {
+      "input": "product_card -title",
+      "tokens": [
+        3107,
+        17315,
+        482,
+        2150
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "product_card -title -description",
+      "tokens": [
+        3107,
+        17315,
+        482,
+        2150,
+        482,
+        4789
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "context--dark_mode",
+      "tokens": [
+        2196,
+        313,
+        23449,
+        7450
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "button_primary --large",
+      "tokens": [
+        2208,
+        46414,
+        1198,
+        17185
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "form_group -input_field",
+      "tokens": [
+        630,
+        6422,
+        482,
+        1379,
+        5121
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "user_profile --active -avatar",
+      "tokens": [
+        882,
+        14108,
+        1198,
+        3104,
+        482,
+        12229
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "profile_card -header -avatar --large",
+      "tokens": [
+        5478,
+        17315,
+        482,
+        2775,
+        482,
+        12229,
+        1198,
+        17185
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile_card -header -info -name -status --online",
+      "tokens": [
+        5478,
+        17315,
+        482,
+        2775,
+        482,
+        2801,
+        482,
+        609,
+        482,
+        2899,
+        1198,
+        26732
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "profile_card -body -stats -stat -followers",
+      "tokens": [
+        5478,
+        17315,
+        482,
+        2664,
+        482,
+        16658,
+        482,
+        10079,
+        482,
+        66966
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile_card -body -bio -text",
+      "tokens": [
+        5478,
+        17315,
+        482,
+        2664,
+        482,
+        38423,
+        482,
+        1342
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile_card -footer -action --primary",
+      "tokens": [
+        5478,
+        17315,
+        482,
+        7101,
+        482,
+        1335,
+        1198,
+        6682
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile_card -footer -action --secondary",
+      "tokens": [
+        5478,
+        17315,
+        482,
+        7101,
+        482,
+        1335,
+        1198,
+        19217
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "header_card --sticky -menu -item",
+      "tokens": [
+        2775,
+        17315,
+        1198,
+        56542,
+        482,
+        6192,
+        482,
+        1224
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "form_card --inline -field -checkbox -checked",
+      "tokens": [
+        630,
+        17315,
+        1198,
+        5167,
+        482,
+        2630,
+        482,
+        10475,
+        482,
+        7702
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile_card -header -avatar --online --highlighted",
+      "tokens": [
+        5478,
+        17315,
+        482,
+        2775,
+        482,
+        12229,
+        1198,
+        26732,
+        1198,
+        36298,
+        291
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "content_card --primary -media -image -caption",
+      "tokens": [
+        1834,
+        17315,
+        1198,
+        6682,
+        482,
+        7551,
+        482,
+        1843,
+        482,
+        24232
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "grid_card --large -column -item -icon --active",
+      "tokens": [
+        4297,
+        17315,
+        1198,
+        17185,
+        482,
+        6361,
+        482,
+        1224,
+        482,
+        1965,
+        1198,
+        3104
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "matrix--shop context--catalog product_card --on_sale -badge",
+      "tokens": [
+        18602,
+        313,
+        8845,
+        2317,
+        313,
+        27637,
+        2027,
+        17315,
+        1198,
+        263,
+        48214,
+        482,
+        32624
+      ],
+      "num_tokens": 13
+    },
+    {
+      "input": "product_card -info -price -discounted --in_stock",
+      "tokens": [
+        3107,
+        17315,
+        482,
+        2801,
+        482,
+        6692,
+        482,
+        28459,
+        291,
+        1198,
+        258,
+        31641
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "product_card -gallery -thumbnail --zoomable",
+      "tokens": [
+        3107,
+        17315,
+        482,
+        27297,
+        482,
+        28886,
+        1198,
+        29816,
+        481
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "cart_card -item -quantity_field --editable",
+      "tokens": [
+        11707,
+        17315,
+        482,
+        1224,
+        482,
+        13832,
+        5121,
+        1198,
+        44746
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "context--blog article_card -header -date -author",
+      "tokens": [
+        2196,
+        313,
+        11921,
+        4652,
+        17315,
+        482,
+        2775,
+        482,
+        1045,
+        482,
+        3170
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "article_card -body -content --expanded",
+      "tokens": [
+        7203,
+        17315,
+        482,
+        2664,
+        482,
+        1834,
+        1198,
+        36583
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "article_card -footer -tags --highlighted",
+      "tokens": [
+        7203,
+        17315,
+        482,
+        7101,
+        482,
+        14412,
+        1198,
+        36298,
+        291
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "matrix--admin context--dashboard panel_card -header -actions --collapsible",
+      "tokens": [
+        18602,
+        313,
+        2953,
+        2317,
+        313,
+        19156,
+        7090,
+        17315,
+        482,
+        2775,
+        482,
+        4109,
+        1198,
+        17666,
+        69661
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "panel_card -body -table -row --selected",
+      "tokens": [
+        7581,
+        17315,
+        482,
+        2664,
+        482,
+        2048,
+        482,
+        654,
+        1198,
+        4626
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "panel_card -footer --interactive",
+      "tokens": [
+        7581,
+        17315,
+        482,
+        7101,
+        1198,
+        38640
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "matrix--community user_profile -stats -followers --engaged",
+      "tokens": [
+        18602,
+        313,
+        29502,
+        1217,
+        14108,
+        482,
+        16658,
+        482,
+        66966,
+        1198,
+        833,
+        3359
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "user_profile -bio -social_links --verified",
+      "tokens": [
+        882,
+        14108,
+        482,
+        38423,
+        482,
+        23191,
+        26324,
+        1198,
+        21713
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "search_panel --has_results -input_container -search_field",
+      "tokens": [
+        1874,
+        25588,
+        1198,
+        4752,
+        13888,
+        482,
+        1379,
+        16226,
+        482,
+        1874,
+        5121
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "product_card -banner --featured --limited_edition -badge",
+      "tokens": [
+        3107,
+        17315,
+        482,
+        28227,
+        1198,
+        37315,
+        1198,
+        18736,
+        33470,
+        684,
+        482,
+        32624
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "form_card -steps -step --active -hint",
+      "tokens": [
+        630,
+        17315,
+        482,
+        25047,
+        482,
+        9710,
+        1198,
+        3104,
+        482,
+        47225
+      ],
+      "num_tokens": 10
+    }
+  ],
+  "Traditional": [
+    {
+      "input": "product-card",
+      "tokens": [
+        3107,
+        21099
+      ],
+      "num_tokens": 2
+    },
+    {
+      "input": "featured-section",
+      "tokens": [
+        37315,
+        22327
+      ],
+      "num_tokens": 2
+    },
+    {
+      "input": "product-card title-part",
+      "tokens": [
+        3107,
+        21099,
+        2316,
+        29137
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "product-card title-part description-part",
+      "tokens": [
+        3107,
+        21099,
+        2316,
+        29137,
+        4096,
+        29137
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "dark-mode-section",
+      "tokens": [
+        23449,
+        15331,
+        22327
+      ],
+      "num_tokens": 3
+    },
+    {
+      "input": "button-primary is-large",
+      "tokens": [
+        2208,
+        9999,
+        374,
+        40248
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "form-group input-field-part",
+      "tokens": [
+        630,
+        4449,
+        1988,
+        19677,
+        29137
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "user-profile is-active avatar-part",
+      "tokens": [
+        882,
+        25171,
+        374,
+        32344,
+        21359,
+        29137
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "profile-card header-part avatar-part is-large",
+      "tokens": [
+        5478,
+        21099,
+        4342,
+        29137,
+        21359,
+        29137,
+        374,
+        40248
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile-card header-part info-part name-part status-part is-online",
+      "tokens": [
+        5478,
+        21099,
+        4342,
+        29137,
+        3630,
+        29137,
+        836,
+        29137,
+        2704,
+        29137,
+        374,
+        69979
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "profile-card body-part stats-part stat-part followers-part",
+      "tokens": [
+        5478,
+        21099,
+        2547,
+        29137,
+        10691,
+        29137,
+        2863,
+        29137,
+        20723,
+        29137
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile-card body-part bio-part text-part",
+      "tokens": [
+        5478,
+        21099,
+        2547,
+        29137,
+        17332,
+        29137,
+        1495,
+        29137
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile-card footer-part action-part is-primary",
+      "tokens": [
+        5478,
+        21099,
+        24048,
+        29137,
+        1957,
+        29137,
+        374,
+        9999
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "profile-card footer-part action-part is-secondary",
+      "tokens": [
+        5478,
+        21099,
+        24048,
+        29137,
+        1957,
+        29137,
+        374,
+        30483
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "header-card is-sticky menu-part item-part",
+      "tokens": [
+        2775,
+        21099,
+        374,
+        5594,
+        19501,
+        5130,
+        29137,
+        1537,
+        29137
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "form-card is-inline field-part checkbox-part is-checked",
+      "tokens": [
+        630,
+        21099,
+        374,
+        24554,
+        2115,
+        29137,
+        32400,
+        29137,
+        374,
+        100231
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile-card header-part avatar-part is-online is-highlighted",
+      "tokens": [
+        5478,
+        21099,
+        4342,
+        29137,
+        21359,
+        29137,
+        374,
+        69979,
+        374,
+        73902,
+        291
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "content-card is-primary media-part image-part caption-part",
+      "tokens": [
+        1834,
+        21099,
+        374,
+        9999,
+        3772,
+        29137,
+        2217,
+        29137,
+        17703,
+        29137
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "grid-card is-large column-part item-part icon-part is-active",
+      "tokens": [
+        4297,
+        21099,
+        374,
+        40248,
+        3330,
+        29137,
+        1537,
+        29137,
+        4706,
+        29137,
+        374,
+        32344
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "shop-matrix catalog-section product-card is-on-sale badge-part",
+      "tokens": [
+        8845,
+        1474,
+        2619,
+        16808,
+        22327,
+        2027,
+        21099,
+        374,
+        10539,
+        58637,
+        24914,
+        29137
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "product-card info-part price-part discounted-part is-in-stock",
+      "tokens": [
+        3107,
+        21099,
+        3630,
+        29137,
+        3430,
+        29137,
+        48774,
+        29137,
+        374,
+        3502,
+        88211
+      ],
+      "num_tokens": 11
+    },
+    {
+      "input": "product-card gallery-part thumbnail-part is-zoomable",
+      "tokens": [
+        3107,
+        21099,
+        18537,
+        29137,
+        29674,
+        29137,
+        374,
+        9319,
+        4285,
+        481
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "cart-card item-part quantity-field-part is-editable",
+      "tokens": [
+        11707,
+        21099,
+        1537,
+        29137,
+        12472,
+        19677,
+        29137,
+        374,
+        22930,
+        481
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "blog-section article-card header-part date-part author-part",
+      "tokens": [
+        11921,
+        22327,
+        4652,
+        21099,
+        4342,
+        29137,
+        2457,
+        29137,
+        3229,
+        29137
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "article-card body-part content-part is-expanded",
+      "tokens": [
+        7203,
+        21099,
+        2547,
+        29137,
+        2262,
+        29137,
+        374,
+        31136
+      ],
+      "num_tokens": 8
+    },
+    {
+      "input": "article-card footer-part tags-part is-highlighted",
+      "tokens": [
+        7203,
+        21099,
+        24048,
+        29137,
+        9681,
+        29137,
+        374,
+        73902,
+        291
+      ],
+      "num_tokens": 9
+    },
+    {
+      "input": "admin-matrix dashboard-section panel-card header-part actions-part is-collapsible",
+      "tokens": [
+        2953,
+        1474,
+        2619,
+        28065,
+        22327,
+        7090,
+        21099,
+        4342,
+        29137,
+        6299,
+        29137,
+        374,
+        1824,
+        980,
+        69661
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "panel-card body-part table-part row-part is-selected",
+      "tokens": [
+        7581,
+        21099,
+        2547,
+        29137,
+        2007,
+        29137,
+        2872,
+        29137,
+        374,
+        46340
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "panel-card footer-part is-interactive",
+      "tokens": [
+        7581,
+        21099,
+        24048,
+        29137,
+        374,
+        12,
+        38640
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "community-matrix user-profile stats-part followers-part is-engaged",
+      "tokens": [
+        29502,
+        1474,
+        2619,
+        1217,
+        25171,
+        10691,
+        29137,
+        20723,
+        29137,
+        374,
+        97202,
+        3359
+      ],
+      "num_tokens": 12
+    },
+    {
+      "input": "user-profile bio-part social-links-part is-verified",
+      "tokens": [
+        882,
+        25171,
+        17332,
+        29137,
+        3674,
+        47776,
+        29137,
+        374,
+        12,
+        21713
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "search-panel has-results input-container-part search-field-part",
+      "tokens": [
+        1874,
+        32476,
+        706,
+        65870,
+        1988,
+        12863,
+        29137,
+        2778,
+        19677,
+        29137
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "product-card banner-part is-featured is-limited-edition badge-part",
+      "tokens": [
+        3107,
+        21099,
+        24206,
+        29137,
+        374,
+        12,
+        37315,
+        374,
+        2922,
+        32611,
+        35535,
+        684,
+        24914,
+        29137
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "form-card steps-part step-part is-active hint-part",
+      "tokens": [
+        630,
+        21099,
+        7504,
+        29137,
+        3094,
+        29137,
+        374,
+        32344,
+        13310,
+        29137
+      ],
+      "num_tokens": 10
+    }
+  ],
+  "BEM": [
+    {
+      "input": "product-card",
+      "tokens": [
+        3107,
+        21099
+      ],
+      "num_tokens": 2
+    },
+    {
+      "input": "context context--featured",
+      "tokens": [
+        2196,
+        2317,
+        313,
+        37315
+      ],
+      "num_tokens": 4
+    },
+    {
+      "input": "product-card product-card__title",
+      "tokens": [
+        3107,
+        21099,
+        2027,
+        21099,
+        565,
+        2150
+      ],
+      "num_tokens": 6
+    },
+    {
+      "input": "product-card product-card__title product-card__description",
+      "tokens": [
+        3107,
+        21099,
+        2027,
+        21099,
+        565,
+        2150,
+        2027,
+        21099,
+        565,
+        4789
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "context context--dark-mode",
+      "tokens": [
+        2196,
+        2317,
+        313,
+        23449,
+        15331
+      ],
+      "num_tokens": 5
+    },
+    {
+      "input": "button button--primary button--large",
+      "tokens": [
+        2208,
+        3215,
+        313,
+        6682,
+        3215,
+        313,
+        17185
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "form-group form-group__input-field",
+      "tokens": [
+        630,
+        4449,
+        1376,
+        4449,
+        565,
+        1379,
+        19677
+      ],
+      "num_tokens": 7
+    },
+    {
+      "input": "user-profile user-profile--active user-profile__avatar",
+      "tokens": [
+        882,
+        25171,
+        1217,
+        25171,
+        313,
+        3104,
+        1217,
+        25171,
+        565,
+        12229
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "profile-card profile-card--large profile-card__header profile-card__avatar",
+      "tokens": [
+        5478,
+        21099,
+        5643,
+        21099,
+        313,
+        17185,
+        5643,
+        21099,
+        565,
+        2775,
+        5643,
+        21099,
+        565,
+        12229
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "profile-card profile-card--online profile-card__header profile-card__info profile-card__name profile-card__status",
+      "tokens": [
+        5478,
+        21099,
+        5643,
+        21099,
+        313,
+        26732,
+        5643,
+        21099,
+        565,
+        2775,
+        5643,
+        21099,
+        565,
+        2801,
+        5643,
+        21099,
+        565,
+        609,
+        5643,
+        21099,
+        565,
+        2899
+      ],
+      "num_tokens": 22
+    },
+    {
+      "input": "profile-card profile-card__body profile-card__stats profile-card__stat profile-card__followers",
+      "tokens": [
+        5478,
+        21099,
+        5643,
+        21099,
+        565,
+        2664,
+        5643,
+        21099,
+        565,
+        16658,
+        5643,
+        21099,
+        565,
+        10079,
+        5643,
+        21099,
+        565,
+        66966
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "profile-card profile-card__body profile-card__bio profile-card__text",
+      "tokens": [
+        5478,
+        21099,
+        5643,
+        21099,
+        565,
+        2664,
+        5643,
+        21099,
+        565,
+        38423,
+        5643,
+        21099,
+        565,
+        1342
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "profile-card profile-card--primary profile-card__footer profile-card__action",
+      "tokens": [
+        5478,
+        21099,
+        5643,
+        21099,
+        313,
+        6682,
+        5643,
+        21099,
+        565,
+        7101,
+        5643,
+        21099,
+        565,
+        1335
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "profile-card profile-card--secondary profile-card__footer profile-card__action",
+      "tokens": [
+        5478,
+        21099,
+        5643,
+        21099,
+        313,
+        19217,
+        5643,
+        21099,
+        565,
+        7101,
+        5643,
+        21099,
+        565,
+        1335
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "header-card header-card--sticky header-card__menu header-card__item",
+      "tokens": [
+        2775,
+        21099,
+        4342,
+        21099,
+        313,
+        56542,
+        4342,
+        21099,
+        565,
+        6192,
+        4342,
+        21099,
+        565,
+        1224
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "form-card form-card--inline form-card__field form-card__checkbox form-card__checkbox--checked",
+      "tokens": [
+        630,
+        21099,
+        1376,
+        21099,
+        313,
+        5167,
+        1376,
+        21099,
+        565,
+        2630,
+        1376,
+        21099,
+        565,
+        10475,
+        1376,
+        21099,
+        565,
+        10475,
+        313,
+        7702
+      ],
+      "num_tokens": 20
+    },
+    {
+      "input": "profile-card profile-card--online profile-card--highlighted profile-card__header profile-card__avatar",
+      "tokens": [
+        5478,
+        21099,
+        5643,
+        21099,
+        313,
+        26732,
+        5643,
+        21099,
+        313,
+        36298,
+        291,
+        5643,
+        21099,
+        565,
+        2775,
+        5643,
+        21099,
+        565,
+        12229
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "content-card content-card--primary content-card__media content-card__image content-card__caption",
+      "tokens": [
+        1834,
+        21099,
+        2262,
+        21099,
+        313,
+        6682,
+        2262,
+        21099,
+        565,
+        7551,
+        2262,
+        21099,
+        565,
+        1843,
+        2262,
+        21099,
+        565,
+        24232
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "grid-card grid-card--large grid-card--active grid-card__column grid-card__item grid-card__icon",
+      "tokens": [
+        4297,
+        21099,
+        5950,
+        21099,
+        313,
+        17185,
+        5950,
+        21099,
+        313,
+        3104,
+        5950,
+        21099,
+        565,
+        6361,
+        5950,
+        21099,
+        565,
+        1224,
+        5950,
+        21099,
+        565,
+        1965
+      ],
+      "num_tokens": 22
+    },
+    {
+      "input": "matrix matrix--shop context context--catalog product-card product-card--on-sale product-card__badge",
+      "tokens": [
+        18602,
+        6303,
+        313,
+        8845,
+        2317,
+        2317,
+        313,
+        27637,
+        2027,
+        21099,
+        2027,
+        21099,
+        313,
+        263,
+        58637,
+        2027,
+        21099,
+        565,
+        32624
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "product-card product-card--in-stock product-card__info product-card__price product-card__discounted",
+      "tokens": [
+        3107,
+        21099,
+        2027,
+        21099,
+        313,
+        258,
+        88211,
+        2027,
+        21099,
+        565,
+        2801,
+        2027,
+        21099,
+        565,
+        6692,
+        2027,
+        21099,
+        565,
+        28459,
+        291
+      ],
+      "num_tokens": 20
+    },
+    {
+      "input": "product-card product-card--zoomable product-card__gallery product-card__thumbnail",
+      "tokens": [
+        3107,
+        21099,
+        2027,
+        21099,
+        313,
+        29816,
+        481,
+        2027,
+        21099,
+        565,
+        27297,
+        2027,
+        21099,
+        565,
+        28886
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "cart-card cart-card--editable cart-card__item cart-card__quantity-field",
+      "tokens": [
+        11707,
+        21099,
+        7558,
+        21099,
+        313,
+        44746,
+        7558,
+        21099,
+        565,
+        1224,
+        7558,
+        21099,
+        565,
+        13832,
+        19677
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "context context--blog article-card article-card__header article-card__date article-card__author",
+      "tokens": [
+        2196,
+        2317,
+        313,
+        11921,
+        4652,
+        21099,
+        4652,
+        21099,
+        565,
+        2775,
+        4652,
+        21099,
+        565,
+        1045,
+        4652,
+        21099,
+        565,
+        3170
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "article-card article-card--expanded article-card__body article-card__content",
+      "tokens": [
+        7203,
+        21099,
+        4652,
+        21099,
+        313,
+        36583,
+        4652,
+        21099,
+        565,
+        2664,
+        4652,
+        21099,
+        565,
+        1834
+      ],
+      "num_tokens": 14
+    },
+    {
+      "input": "article-card article-card--highlighted article-card__footer article-card__tags",
+      "tokens": [
+        7203,
+        21099,
+        4652,
+        21099,
+        313,
+        36298,
+        291,
+        4652,
+        21099,
+        565,
+        7101,
+        4652,
+        21099,
+        565,
+        14412
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "matrix matrix--admin context context--dashboard panel-card panel-card--collapsible panel-card__header panel-card__actions",
+      "tokens": [
+        18602,
+        6303,
+        313,
+        2953,
+        2317,
+        2317,
+        313,
+        19156,
+        7090,
+        21099,
+        7090,
+        21099,
+        313,
+        17666,
+        69661,
+        7090,
+        21099,
+        565,
+        2775,
+        7090,
+        21099,
+        565,
+        4109
+      ],
+      "num_tokens": 23
+    },
+    {
+      "input": "panel-card panel-card--selected panel-card__body panel-card__table panel-card__row",
+      "tokens": [
+        7581,
+        21099,
+        7090,
+        21099,
+        313,
+        4626,
+        7090,
+        21099,
+        565,
+        2664,
+        7090,
+        21099,
+        565,
+        2048,
+        7090,
+        21099,
+        565,
+        654
+      ],
+      "num_tokens": 18
+    },
+    {
+      "input": "panel-card panel-card--interactive panel-card__footer",
+      "tokens": [
+        7581,
+        21099,
+        7090,
+        21099,
+        313,
+        38640,
+        7090,
+        21099,
+        565,
+        7101
+      ],
+      "num_tokens": 10
+    },
+    {
+      "input": "matrix matrix--community user-profile user-profile--engaged user-profile__stats user-profile__followers",
+      "tokens": [
+        18602,
+        6303,
+        313,
+        29502,
+        1217,
+        25171,
+        1217,
+        25171,
+        313,
+        833,
+        3359,
+        1217,
+        25171,
+        565,
+        16658,
+        1217,
+        25171,
+        565,
+        66966
+      ],
+      "num_tokens": 19
+    },
+    {
+      "input": "user-profile user-profile--verified user-profile__bio user-profile__social-links",
+      "tokens": [
+        882,
+        25171,
+        1217,
+        25171,
+        313,
+        21713,
+        1217,
+        25171,
+        565,
+        38423,
+        1217,
+        25171,
+        565,
+        23191,
+        47776
+      ],
+      "num_tokens": 15
+    },
+    {
+      "input": "search-panel search-panel--has-results search-panel__input-container search-panel__search-field",
+      "tokens": [
+        1874,
+        32476,
+        2778,
+        32476,
+        313,
+        4752,
+        65870,
+        2778,
+        32476,
+        565,
+        1379,
+        12863,
+        2778,
+        32476,
+        565,
+        1874,
+        19677
+      ],
+      "num_tokens": 17
+    },
+    {
+      "input": "product-card product-card--featured product-card--limited-edition product-card__banner product-card__badge",
+      "tokens": [
+        3107,
+        21099,
+        2027,
+        21099,
+        313,
+        37315,
+        2027,
+        21099,
+        313,
+        18736,
+        35535,
+        684,
+        2027,
+        21099,
+        565,
+        28227,
+        2027,
+        21099,
+        565,
+        32624
+      ],
+      "num_tokens": 20
+    },
+    {
+      "input": "form-card form-card--active form-card__steps form-card__step form-card__hint",
+      "tokens": [
+        630,
+        21099,
+        1376,
+        21099,
+        313,
+        3104,
+        1376,
+        21099,
+        565,
+        25047,
+        1376,
+        21099,
+        565,
+        9710,
+        1376,
+        21099,
+        565,
+        47225
+      ],
+      "num_tokens": 18
+    }
+  ]
+}
